@@ -1,0 +1,142 @@
+[
+    {
+        "_id": "6640f09d65d889f46b0a34bc",
+        "Plant Name": "Snake Plant",
+        "Plant Type": "Foliage Plants",
+        "Plant Description": "Known for its long, upright leaves with striking patterns.",
+        "Care Requirements": {
+            "Light": "Low to medium indirect light",
+            "Watering": "Allow soil to dry between waterings",
+            "Soil": "Well-draining potting mix",
+            "Temperature": "Prefers temperatures between 15-27°C (60-80°F)",
+            "Humidity": "Tolerant of low humidity levels",
+            "Fertilization": "Fertilize sparingly during growing season"
+        }
+    },
+    {
+        "_id": "6640f09d65d889f46b0a34bd",
+        "Plant Name": "ZZ Plant",
+        "Plant Type": "Foliage Plants",
+        "Plant Description": "Glossy, dark green leaves that are extremely low maintenance.",
+        "Care Requirements": {
+            "Light": "Low to bright indirect light",
+            "Watering": "Allow soil to dry completely between waterings",
+            "Soil": "Well-draining soil mix",
+            "Temperature": "Tolerates temperatures between 18-26°C (65-80°F)",
+            "Humidity": "Adaptable to various humidity levels",
+            "Fertilization": "Fertilize occasionally during growing season"
+        }
+    },
+    {
+        "_id": "6640f09d65d889f46b0a34be",
+        "Plant Name": "Pothos",
+        "Plant Type": "Foliage Plants",
+        "Plant Description": "Heart-shaped leaves that come in various shades of green and variegations.",
+        "Care Requirements": {
+            "Light": "Low to medium indirect light",
+            "Watering": "Keep soil consistently moist but not soggy",
+            "Soil": "Well-draining potting mix",
+            "Temperature": "Prefers temperatures between 15-30°C (60-86°F)",
+            "Humidity": "Tolerant of low humidity levels",
+            "Fertilization": "Fertilize monthly during growing season"
+        }
+    },
+    {
+        "_id": "6640f09d65d889f46b0a34bf",
+        "Plant Name": "Philodendron",
+        "Plant Type": "Foliage Plants",
+        "Plant Description": "Large, lush leaves that can vary greatly in shape and color depending on the species.",
+        "Care Requirements": {
+            "Light": "Low to medium indirect light",
+            "Watering": "Keep soil evenly moist, avoid overwatering",
+            "Soil": "Well-draining potting mix",
+            "Temperature": "Prefers temperatures between 18-27°C (65-80°F)",
+            "Humidity": "Prefers higher humidity levels",
+            "Fertilization": "Fertilize monthly during growing season"
+        }
+    },
+    {
+        "_id": "6640f09d65d889f46b0a34c0",
+        "Plant Name": "Spider Plant",
+        "Plant Type": "Foliage Plants",
+        "Plant Description": "Arching leaves with a central rosette and tiny white flowers.",
+        "Care Requirements": {
+            "Light": "Medium to bright indirect light",
+            "Watering": "Keep soil evenly moist, avoid overwatering",
+            "Soil": "Well-draining potting mix",
+            "Temperature": "Tolerates temperatures between 15-26°C (60-80°F)",
+            "Humidity": "Tolerant of various humidity levels",
+            "Fertilization": "Fertilize every 2-4 weeks during growing season"
+        }
+    },
+    {
+        "_id": "6640f09d65d889f46b0a34c1",
+        "Plant Name": "Peace Lily",
+        "Plant Type": "Foliage Plants",
+        "Plant Description": "Dark green leaves with white flowers that are often mistaken for petals.",
+        "Care Requirements": {
+            "Light": "Low to medium indirect light",
+            "Watering": "Keep soil consistently moist, do not overwater",
+            "Soil": "Well-draining potting mix",
+            "Temperature": "Prefers temperatures between 18-24°C (65-75°F)",
+            "Humidity": "Prefers higher humidity levels",
+            "Fertilization": "Fertilize monthly during growing season"
+        }
+    },
+    {
+        "_id": "6640f09d65d889f46b0a34c2",
+        "Plant Name": "Calathea",
+        "Plant Type": "Foliage Plants",
+        "Plant Description": "Known for their intricately patterned leaves that often feature striking combinations of colors.",
+        "Care Requirements": {
+            "Light": "Indirect light, avoid direct sunlight",
+            "Watering": "Keep soil evenly moist, avoid soggy soil",
+            "Soil": "Well-draining potting mix",
+            "Temperature": "Prefers temperatures between 18-26°C (65-80°F)",
+            "Humidity": "Prefers high humidity levels",
+            "Fertilization": "Fertilize every 2-4 weeks during growing season with diluted fertilizer"
+        }
+    },
+    {
+        "_id": "6640f09d65d889f46b0a34c3",
+        "Plant Name": "Fiddle Leaf Fig",
+        "Plant Type": "Foliage Plants",
+        "Plant Description": "Large, violin-shaped leaves that add a touch of drama to any room.",
+        "Care Requirements": {
+            "Light": "Bright, indirect light",
+            "Watering": "Allow soil to partially dry out between waterings",
+            "Soil": "Well-draining potting mix",
+            "Temperature": "Prefers temperatures between 18-24°C (65-75°F)",
+            "Humidity": "Prefers higher humidity levels",
+            "Fertilization": "Fertilize monthly during growing season"
+        }
+    },
+    {
+        "_id": "6640f09d65d889f46b0a34c4",
+        "Plant Name": "Rubber Plant",
+        "Plant Type": "Foliage Plants",
+        "Plant Description": "Thick, rubbery leaves that are typically dark green or burgundy.",
+        "Care Requirements": {
+            "Light": "Medium to bright indirect light",
+            "Watering": "Allow soil to dry out slightly between waterings",
+            "Soil": "Well-draining potting mix",
+            "Temperature": "Prefers temperatures between 18-24°C (65-75°F)",
+            "Humidity": "Tolerant of low humidity levels",
+            "Fertilization": "Fertilize every 2-4 weeks during growing season"
+        }
+    },
+    {
+        "_id": "6640f09d65d889f46b0a34c5",
+        "Plant Name": "Chinese Money Plant",
+        "Plant Type": "Foliage Plants",
+        "Plant Description": "Round, coin-like leaves that grow on long, slender stems.",
+        "Care Requirements": {
+            "Light": "Bright indirect light",
+            "Watering": "Allow soil to dry slightly between waterings",
+            "Soil": "Well-draining potting mix",
+            "Temperature": "Prefers temperatures between 18-24°C (65-75°F)",
+            "Humidity": "Tolerant of average indoor humidity levels",
+            "Fertilization": "Fertilize every 4-6 weeks during growing season"
+        }
+    }
+]
